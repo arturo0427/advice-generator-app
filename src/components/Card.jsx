@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import dice from "../assets/icon-dice.svg";
-import dividerDesktop from "../assets/pattern-divider-desktop.svg";
-import dividerMobile from "../assets/pattern-divider-mobile.svg";
+import dividerDesktop from "./../assets/pattern-divider-desktop.svg";
+import dividerMobile from "./../assets/pattern-divider-mobile.svg";
 
 import "./styles/cardStyle.css";
 
