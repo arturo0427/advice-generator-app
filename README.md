@@ -22,5 +22,5 @@ I am a systems engineer with more than 3 years of experience in front-end web de
 
 ### Links
 
-- Solution URL: [GitHub]()
-- Live Site URL: [live site URL]()
+- Solution URL: [GitHub](https://github.com/arturo0427/advice-generator-app)
+- Live Site URL: [live site URL](https://arturo0427.github.io/advice-generator-app/)
