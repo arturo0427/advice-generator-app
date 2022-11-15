@@ -1,9 +1,9 @@
 {
-  
   "name": "advicegeneratorapp",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homapage":"https://github.com/arturo0427/advice-generator-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
